@@ -893,7 +893,6 @@ public class ImageDownloadInfoData {
 		
 		String html = ImageDownloadInfoData.testParseData;
 		
-		
 		Document doc = Jsoup.parse(html);
 		/**
 		 * parse video info(解析视频基础信息)
